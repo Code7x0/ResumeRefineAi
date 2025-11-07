@@ -3,7 +3,7 @@
 ResumeRefine AI is an intelligent resume analysis tool that evaluates resumes against modern hiring standards and (optionally) a job description.  
 It uses **Google Gemini 2.0 Flash** to provide structured feedback, ATS scoring, keyword matching, strengths, weaknesses, and improvement suggestions.
 
-🚀 Live Demo: https://your-vercel-link-here  
+🚀 Live Demo: https://resume-refine-ai-umber.vercel.app/ 
 📌 Tech Stack: Next.js • TailwindCSS • Gemini AI • PDF Parsing • Vercel
 
 ---
